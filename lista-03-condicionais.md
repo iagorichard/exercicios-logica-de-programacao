@@ -1,5 +1,5 @@
 # Lista 03 - Lógica de Programação
-## Assunto: Estruturas Condicionais (if, elif, else)
+## Assunto: Estruturas Condicionais
 
 ## Exercício 1
 Peça um número e diga se ele é positivo, negativo ou zero.
