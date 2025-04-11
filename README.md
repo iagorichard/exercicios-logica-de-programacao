@@ -5,4 +5,3 @@ Abaixo todos os links de listas de exercícios disponíveis para Lógica de Prog
 - [Lista 01 - Variáveis](https://github.com/iagorichard/exercicios-logica-de-programacao/blob/main/lista-01-variaveis.md)
 - [Lista 02 - Operadores lógicos e relacionais](https://github.com/iagorichard/exercicios-logica-de-programacao/blob/main/lista-02-operacoes-logicas-relacionais.md)
 - [Lista 03 - Estruturas condicionais](https://github.com/iagorichard/exercicios-logica-de-programacao/blob/main/lista-03-condicionais.md)
-"""
